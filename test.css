@@ -194,10 +194,77 @@ body{
 
 .section5{
     width: 100%;
-    height: 550px;
+    height: 450px;
     background-image: url("imgi_345_grocery_desktop.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(0, 0, 0, 0.5);
     background-blend-mode: overlay;
+    font-family:  "Outfit", sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.but{
+    margin-left: 650px;
+    margin-top: 30px;
+}
+
+.section6{
+    margin-top: 70px;
+    height: 480px;
+    width: 100%;
+    
+}
+
+.section7{
+    width: 100%;
+    height: 700px;
+    background-color: rgb(254, 241, 237);
+    font-family:  "Outfit", sans-serif;
+    /* display: flex; */
+}
+
+.text1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+.shop{
+    width: 110px;
+    height: 30px;
+    border-radius: 25px;
+    background-color: rgb(235, 22, 0);
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    
+
+}
+
+.motherpet{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+.shop{
+    justify-self: center;
+}
+
+.unlock{
+    display: block;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+    padding-top: 50px;
 }
