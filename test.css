@@ -1,0 +1,203 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.hero{
+    background-image: url("imgi_41_hero_desktop.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    padding-top: 2px;
+}
+
+.signIn{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(235, 22, 0);
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+
+.signUp{
+    width: 90px;
+    height: 30px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+    color: rgb(96, 96, 96);
+
+}
+.nav{
+    display: flex;
+    gap: 5px;
+    margin-left: 1200px;
+    padding-top: 12px;
+    font-family: "Outfit", sans-serif;
+    font-weight: 800;
+    
+}
+
+.heroText{
+     justify-self: center;
+     padding-top: 110px;
+    
+}
+
+.center{
+    background-color: white;
+    width: 420px;
+    height: 30px;
+    display: flex;
+    border-radius: 25px;
+    /* justify-content: center; */
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-left: 150px;
+    
+    
+}
+
+.p1{
+    font-size: 40px;
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    
+
+}
+
+.p2{
+    font-family: "Outfit", sans-serif;
+    color: white;
+    font-size: 13px;
+    margin-left: 290px;
+    
+}
+
+.location{
+    display: flex;
+    margin-top: 25px;
+    gap: 10px;
+    justify-content: center;
+    font-family: "Outfit", sans-serif;
+    font-weight: 500;
+
+}
+
+.div1{
+   width: 200px;
+    height: 25px;
+    border-radius: 15px;
+    color: rgb(96, 96, 96);
+    background-color: white; 
+    text-align: center;
+    padding-top: 5px;
+
+    
+}
+
+.div2{
+    margin-left: 60px;
+}
+
+.section2{
+
+    width: 100%;
+    height: 600px;
+    font-family: "Outfit", sans-serif;
+    display: flex;
+    gap: 150px;
+    text-align: center;
+    padding-top: 120px;
+     
+    
+}
+
+.divImg{
+    display: flex;
+    
+}
+.span1{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.card1{
+   margin-left: 250px;
+}
+
+.pp{
+    margin-left: 20px;
+}
+
+.ppp{
+    margin-left: 50px;
+}
+
+.section3{
+     width: 100%;
+     height: 350px;
+     margin-bottom: 100px;
+     
+}
+.motherDiv{
+    display: flex;
+    font-family: "Outfit", sans-serif;
+}
+
+.guy{
+    margin-left: 100px;
+    
+}
+.buttonDiv{
+    background-color: rgb(235, 22, 0);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 5px;
+   
+    
+}
+
+.every{
+    margin-left: 120px;
+    padding-top: 130px;
+}
+
+.section4{
+    background-color: rgb(254, 241, 237);
+    width: 100%;
+    height: 500px;
+    padding-top: 100px;
+}
+
+.motherDiv2{
+
+    display: flex;
+    font-family:   "Outfit", sans-serif;
+
+}
+
+.dash{
+    margin-left: 60px;
+    padding-top: 150px;
+}
+
+.section5{
+    width: 100%;
+    height: 550px;
+    background-image: url("imgi_345_grocery_desktop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}
